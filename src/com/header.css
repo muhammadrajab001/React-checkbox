@@ -1,0 +1,8 @@
+.time_week{
+    display: grid;
+    justify-content: center;
+    text-align: center;
+    margin-top: 500px;
+    height: 118px;
+    align-items: self-start;
+}
